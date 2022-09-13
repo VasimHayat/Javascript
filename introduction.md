@@ -12,12 +12,18 @@
  - 1. Inline JavaScript 
     *eg.*  **```  <button onclick="alert('hi')">Click</button>   ```**
  - 2. Internal JavaScript, with the script tag
-   *eg.*  **```  
-    <script> 
+   *eg.*  
+   **```  
+   <script> 
+    
     functon onClickAction(){  
+    
         console.log('click called');
      }
-    </script>   ```**
+     
+    </script>   
+    
+    ```**
 
 ## What is a variable? 
  A variable is a container that is used to store/hold the value *eg. **let age =20;**
