@@ -14,14 +14,11 @@
  - 2. Internal JavaScript, with the script tag
    *eg.*  
    **```  
-   <script> 
-    
-    functon onClickAction(){  
-    
-        console.log('click called');
-     }
-     
-    </script>   
+        <script>
+        function(){
+            alert("I am inside a script tag")
+        }
+       </script>
     
     ```**
 
