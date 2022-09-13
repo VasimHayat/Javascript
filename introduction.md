@@ -10,7 +10,7 @@
 
 ## How to Use JavaScript in HTML ?
  - 1. Inline JavaScript 
-    *eg.*  ** <button onclick="alert('hi')">Click</button> **
+    *eg.*  ** <code> <button onclick="alert('hi')">Click</button> </code> **
  - 2. 
 
 ## What is a variable? 
