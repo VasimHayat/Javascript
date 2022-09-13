@@ -19,8 +19,7 @@
            alert("I am inside a script tag")
        }
         </script>
-    
-   
+     
 
 ## What is a variable? 
  A variable is a container that is used to store/hold the value *eg. **let age =20;**
