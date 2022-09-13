@@ -23,5 +23,5 @@
 
 ## What is a variable? 
  A variable is a container that is used to store/hold the value *eg. **let age =20;**
- 
-https://exploringjs.com/impatient-js/img-book/values/type_hierarchy.svg
+  
+![type_hierarchy](https://user-images.githubusercontent.com/6003207/189998216-1fbfdb26-b4b0-4efc-ae4a-0ce1066c8ed4.svg)
