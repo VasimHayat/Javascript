@@ -14,13 +14,13 @@
  - 2. Internal JavaScript, with the script tag
    *eg.* 
    `` 
-     <script>
+    ` <script>
           function(){
-           alert("I am inside a script tag")
-       }
-       </script>
+   `        alert("I am inside a script tag")
+   `    }
+  `      </script>
     ```
-    ```**
+   
 
 ## What is a variable? 
  A variable is a container that is used to store/hold the value *eg. **let age =20;**
