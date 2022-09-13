@@ -14,12 +14,12 @@
  - 2. Internal JavaScript, with the script tag
    *eg.* 
    `` 
-  ``    <script>
-    `       function(){
+     <script>
+          function(){
            alert("I am inside a script tag")
-     ```   }
-     ```  </script>
-    
+       }
+       </script>
+    ```
     ```**
 
 ## What is a variable? 
