@@ -13,7 +13,7 @@
     *eg.*  **```  <button onclick="alert('hi')">Click</button>   ```**
  - 2. Internal JavaScript, with the script tag
    *eg.* 
-   `` 
+   ``` 
     ` <script>
           function(){
    `        alert("I am inside a script tag")
